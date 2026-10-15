@@ -10,7 +10,7 @@ controller? Drag the record with the mouse.
 
 | Build | Version | Download | SHA-256 |
 |---|---|---|---|
-| Unsigned | 0.1.0 | [Wild-Card-macOS.pkg](https://github.com/Echooff3/vst-public-releases/raw/main/unsigned/Wild-Card-macOS.pkg) | `703917c0da4ad0242449993844b724e7e64c79ad59abdfd76f82bdff2475c1e8` |
+| Unsigned | 0.1.0 | [Wild-Card-macOS.pkg](https://github.com/Echooff3/vst-public-releases/raw/main/unsigned/Wild-Card-macOS.pkg) | `3123272177abf9646d14e33d4d63da18aaf09ada9304c9f81819b264f13bf65b` |
 
 ### Installing an unsigned build
 
