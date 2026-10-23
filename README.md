@@ -8,7 +8,7 @@ notarized by Apple, so it opens without warnings.
 |---|---|---|
 | Wild Card | 0.1.0 | [Wild-Card-macOS.pkg](https://github.com/Echooff3/vst-public-releases/releases/download/wildcard-latest/Wild-Card-macOS.pkg) |
 | Conceal-N-Strike | 0.1.0 | [Conceal-N-Strike-macOS.pkg](https://github.com/Echooff3/vst-public-releases/releases/download/conceal-n-strike-latest/Conceal-N-Strike-macOS.pkg) |
-| MIDI Fart Sniffer | 0.1.0 | [MIDI-Fart-Sniffer-macOS.pkg](https://github.com/Echooff3/vst-public-releases/releases/download/midi-fart-sniffer-latest/MIDI-Fart-Sniffer-macOS.pkg) |
+| MIDI Fart Sniffer | 0.1.1 | [MIDI-Fart-Sniffer-macOS.pkg](https://github.com/Echooff3/vst-public-releases/releases/download/midi-fart-sniffer-latest/MIDI-Fart-Sniffer-macOS.pkg) |
 
 All versions and SHA-256 checksums: [Releases](https://github.com/Echooff3/vst-public-releases/releases).
 
