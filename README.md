@@ -1,8 +1,26 @@
 # Plug-in downloads
 
-Installers for plug-ins by Echooff3.
+Installers for plug-ins by Echooff3 (Trilsoft). Each is a universal macOS
+11+ package (Apple Silicon and Intel), signed with a Developer ID and
+notarized by Apple, so it opens without warnings.
 
-## Wild Card
+| Plug-in | Version | Download (always the latest) |
+|---|---|---|
+| Wild Card | 0.1.0 | [Wild-Card-macOS.pkg](https://github.com/Echooff3/vst-public-releases/releases/download/wildcard-latest/Wild-Card-macOS.pkg) |
+| Conceal-N-Strike | 0.1.0 | [Conceal-N-Strike-macOS.pkg](https://github.com/Echooff3/vst-public-releases/releases/download/conceal-n-strike-latest/Conceal-N-Strike-macOS.pkg) |
+| MIDI Fart Sniffer | 0.1.0 | [MIDI-Fart-Sniffer-macOS.pkg](https://github.com/Echooff3/vst-public-releases/releases/download/midi-fart-sniffer-latest/MIDI-Fart-Sniffer-macOS.pkg) |
+
+All versions and SHA-256 checksums: [Releases](https://github.com/Echooff3/vst-public-releases/releases).
+
+Installing: open the .pkg, then rescan plug-ins in your DAW. The installer puts
+the VST3 in `/Library/Audio/Plug-Ins/VST3`, the CLAP in `/Library/Audio/Plug-Ins/CLAP`,
+the Audio Unit in `/Library/Audio/Plug-Ins/Components` and the standalone app in
+`/Applications` (MIDI Fart Sniffer also adds a Max for Live device in
+`/Library/Application Support/Trilsoft/MIDI Fart Sniffer`). Open the plug-in
+and enter your activation code.
+
+## Older unsigned build
+
 
 A turntable scratch instrument for the Hercules DJControl Starlight (VST3,
 CLAP and a standalone app for macOS 11+, Intel and Apple Silicon). No
